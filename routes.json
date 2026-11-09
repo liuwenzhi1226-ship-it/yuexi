@@ -1,0 +1,218 @@
+[
+  {
+    "path": "/"
+  },
+  {
+    "path": "/login"
+  },
+  {
+    "path": "/login/staff"
+  },
+  {
+    "path": "/login/mother"
+  },
+  {
+    "path": "/role-select"
+  },
+  {
+    "path": "/setup"
+  },
+  {
+    "path": "/business-flow"
+  },
+  {
+    "path": "/sales"
+  },
+  {
+    "path": "/sales/customers"
+  },
+  {
+    "path": "/sales/customers/:id"
+  },
+  {
+    "path": "/sales/signed"
+  },
+  {
+    "path": "/sales/rooms"
+  },
+  {
+    "path": "/nursery"
+  },
+  {
+    "path": "/nursery/tasks"
+  },
+  {
+    "path": "/nursery/my-babies"
+  },
+  {
+    "path": "/nursery/babies"
+  },
+  {
+    "path": "/nursery/my-moms"
+  },
+  {
+    "path": "/nursery/history"
+  },
+  {
+    "path": "/nursery/daily-care"
+  },
+  {
+    "path": "/nursery/feeding"
+  },
+  {
+    "path": "/nursery/baby-daily"
+  },
+  {
+    "path": "/nursery/mom-daily"
+  },
+  {
+    "path": "/nurse"
+  },
+  {
+    "path": "/nurse/admission"
+  },
+  {
+    "path": "/nurse/mom-assessment"
+  },
+  {
+    "path": "/nurse/baby-assessment"
+  },
+  {
+    "path": "/nurse/rounds"
+  },
+  {
+    "path": "/nurse/rounds14"
+  },
+  {
+    "path": "/nurse/family-meals"
+  },
+  {
+    "path": "/nurse/disinfection"
+  },
+  {
+    "path": "/nurse/discharge"
+  },
+  {
+    "path": "/nurse/history"
+  },
+  {
+    "path": "/postpartum"
+  },
+  {
+    "path": "/postpartum/appointments"
+  },
+  {
+    "path": "/postpartum/questionnaire"
+  },
+  {
+    "path": "/postpartum/rounds"
+  },
+  {
+    "path": "/postpartum/projects"
+  },
+  {
+    "path": "/postpartum/records"
+  },
+  {
+    "path": "/postpartum/history"
+  },
+  {
+    "path": "/kitchen"
+  },
+  {
+    "path": "/kitchen/menu-manage"
+  },
+  {
+    "path": "/kitchen/menu"
+  },
+  {
+    "path": "/kitchen/photo-upload"
+  },
+  {
+    "path": "/kitchen/special-diets"
+  },
+  {
+    "path": "/kitchen/special"
+  },
+  {
+    "path": "/kitchen/history"
+  },
+  {
+    "path": "/supervisor"
+  },
+  {
+    "path": "/supervisor/review"
+  },
+  {
+    "path": "/supervisor/reviews"
+  },
+  {
+    "path": "/supervisor/abnormal"
+  },
+  {
+    "path": "/supervisor/feedback"
+  },
+  {
+    "path": "/supervisor/stats"
+  },
+  {
+    "path": "/supervisor/history"
+  },
+  {
+    "path": "/supervisor/sales"
+  },
+  {
+    "path": "/supervisor/sales/:metric"
+  },
+  {
+    "path": "/mother"
+  },
+  {
+    "path": "/mother/records"
+  },
+  {
+    "path": "/mother/appointments"
+  },
+  {
+    "path": "/mother/postpartum"
+  },
+  {
+    "path": "/mother/meals"
+  },
+  {
+    "path": "/mother/leave"
+  },
+  {
+    "path": "/mother/feedback"
+  },
+  {
+    "path": "/mother/history"
+  },
+  {
+    "path": "/manager"
+  },
+  {
+    "path": "/manager/customers"
+  },
+  {
+    "path": "/manager/sales"
+  },
+  {
+    "path": "/manager/finance"
+  },
+  {
+    "path": "/manager/performance"
+  },
+  {
+    "path": "/manager/staff"
+  },
+  {
+    "path": "/manager/rooms"
+  },
+  {
+    "path": "/manager/services"
+  },
+  {
+    "path": "/manager/kitchen"
+  }
+]
