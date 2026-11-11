@@ -213,6 +213,9 @@
     "path": "/manager/services"
   },
   {
+    "path": "/manager/packages"
+  },
+  {
     "path": "/manager/kitchen"
   }
 ]
