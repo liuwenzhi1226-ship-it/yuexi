@@ -217,8 +217,5 @@
   },
   {
     "path": "/manager/kitchen"
-  },
-  {
-    "path": "/manager/backup"
   }
 ]
