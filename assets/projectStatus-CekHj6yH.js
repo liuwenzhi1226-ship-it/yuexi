@@ -1,0 +1,1 @@
+var e={in_progress:`进行中`,completed:`已完成`},t={进行中:`in_progress`,已完成:`completed`,in_progress:`in_progress`,completed:`completed`};function n(e){return e?t[e]??e:`in_progress`}function r(t){return e[n(t)]??t??`进行中`}function i(e){return n(e)===`completed`}export{i as n,r,n as t};
